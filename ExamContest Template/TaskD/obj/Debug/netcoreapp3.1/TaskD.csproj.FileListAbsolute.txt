@@ -1,0 +1,13 @@
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.exe
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.deps.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.runtimeconfig.dev.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.dll
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\bin\Debug\netcoreapp3.1\TaskD.pdb
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.csprojAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.dll
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.pdb
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskD\obj\Debug\netcoreapp3.1\TaskD.genruntimeconfig.cache

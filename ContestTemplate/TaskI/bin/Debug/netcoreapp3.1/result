@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <ID>1</ID>
+    <location>��������</location>
+    <name>System.String[] ���������</name>
+  </Item>
+  <Item>
+    <ID>2</ID>
+    <location>�����</location>
+    <name>System.String[] ������</name>
+  </Item>
+  <Item>
+    <ID>3</ID>
+    <location>�������</location>
+    <name>System.String[] System.String[] System.String[] ��������</name>
+  </Item>
+</ArrayOfItem>

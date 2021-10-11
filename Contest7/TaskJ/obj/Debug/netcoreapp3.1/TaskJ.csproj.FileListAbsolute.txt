@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.exe
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.deps.json
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.dll
+D:\Visual Studio\hse_contests\Contest7\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.csprojAssemblyReference.cache
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.dll
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.genruntimeconfig.cache

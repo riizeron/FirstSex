@@ -1,0 +1,13 @@
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.csprojAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.exe
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.deps.json
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.runtimeconfig.dev.json
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.dll
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\bin\Debug\netcoreapp3.1\TaskG.pdb
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.dll
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.pdb
+C:\Users\Вячеслав\Desktop\Contest13\TaskG\obj\Debug\netcoreapp3.1\TaskG.genruntimeconfig.cache

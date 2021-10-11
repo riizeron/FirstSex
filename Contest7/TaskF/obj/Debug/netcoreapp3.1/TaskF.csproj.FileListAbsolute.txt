@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.exe
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.deps.json
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.dll
+D:\Visual Studio\hse_contests\Contest7\TaskF\bin\Debug\netcoreapp3.1\TaskF.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.dll
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.genruntimeconfig.cache
+D:\Visual Studio\hse_contests\Contest7\TaskF\obj\Debug\netcoreapp3.1\TaskF.csprojAssemblyReference.cache

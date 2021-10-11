@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.exe
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.deps.json
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.dll
+D:\Visual Studio\hse_contests\Contest6\TaskH\bin\Debug\netcoreapp3.1\TaskH.pdb
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.dll
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.pdb
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.genruntimeconfig.cache
+D:\Visual Studio\hse_contests\Contest6\TaskH\obj\Debug\netcoreapp3.1\TaskH.csprojAssemblyReference.cache

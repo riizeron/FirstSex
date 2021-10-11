@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.exe
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.deps.json
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.dll
+D:\Visual Studio\hse_contests\Contest05\TaskI\bin\Debug\netcoreapp3.1\TaskI.pdb
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.dll
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.pdb
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.genruntimeconfig.cache
+D:\Visual Studio\hse_contests\Contest05\TaskI\obj\Debug\netcoreapp3.1\TaskI.csprojAssemblyReference.cache

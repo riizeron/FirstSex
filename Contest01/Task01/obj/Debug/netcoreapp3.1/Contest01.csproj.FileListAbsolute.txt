@@ -1,0 +1,12 @@
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.exe
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.deps.json
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.runtimeconfig.json
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.dll
+D:\Visual Studio\hse_contests\Task01\Contest01\bin\Debug\netcoreapp3.1\Contest01.pdb
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.dll
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.pdb
+D:\Visual Studio\hse_contests\Task01\Contest01\obj\Debug\netcoreapp3.1\Contest01.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/maria/Desktop/Contest/Contest/TaskD/bin/Debug/netcoreapp3.1/TaskD.deps.json
+/Users/maria/Desktop/Contest/Contest/TaskD/bin/Debug/netcoreapp3.1/TaskD.runtimeconfig.json
+/Users/maria/Desktop/Contest/Contest/TaskD/bin/Debug/netcoreapp3.1/TaskD.runtimeconfig.dev.json
+/Users/maria/Desktop/Contest/Contest/TaskD/bin/Debug/netcoreapp3.1/TaskD.dll
+/Users/maria/Desktop/Contest/Contest/TaskD/bin/Debug/netcoreapp3.1/TaskD.pdb
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.csprojAssemblyReference.cache
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.AssemblyInfoInputs.cache
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.AssemblyInfo.cs
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.dll
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.pdb
+/Users/maria/Desktop/Contest/Contest/TaskD/obj/Debug/netcoreapp3.1/TaskD.genruntimeconfig.cache

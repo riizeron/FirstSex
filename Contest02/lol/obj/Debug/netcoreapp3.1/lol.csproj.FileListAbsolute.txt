@@ -1,0 +1,12 @@
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.exe
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.deps.json
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.dll
+D:\Visual Studio\hse_contests\Contest02\lol\bin\Debug\netcoreapp3.1\lol.pdb
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.dll
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.pdb
+D:\Visual Studio\hse_contests\Contest02\lol\obj\Debug\netcoreapp3.1\lol.genruntimeconfig.cache

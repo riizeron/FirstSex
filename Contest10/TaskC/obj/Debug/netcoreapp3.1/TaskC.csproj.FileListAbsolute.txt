@@ -1,0 +1,13 @@
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.exe
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.deps.json
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.runtimeconfig.dev.json
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.dll
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\bin\Debug\netcoreapp3.1\TaskC.pdb
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.csprojAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.dll
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.pdb
+C:\Users\Вячеслав\Desktop\Contest10\TaskC\obj\Debug\netcoreapp3.1\TaskC.genruntimeconfig.cache

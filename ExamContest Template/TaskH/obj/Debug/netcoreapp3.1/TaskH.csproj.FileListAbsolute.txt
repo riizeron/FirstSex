@@ -1,0 +1,12 @@
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.exe
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.deps.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.dev.json
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.dll
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\bin\Debug\netcoreapp3.1\TaskH.pdb
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.dll
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.pdb
+C:\Users\Вячеслав\Desktop\ExamContest Template\TaskH\obj\Debug\netcoreapp3.1\TaskH.genruntimeconfig.cache

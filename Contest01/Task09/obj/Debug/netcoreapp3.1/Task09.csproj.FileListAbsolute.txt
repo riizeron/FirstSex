@@ -1,0 +1,12 @@
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.exe
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.deps.json
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.runtimeconfig.json
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.dll
+D:\Visual Studio\hse_contests\Task01\Task09\bin\Debug\netcoreapp3.1\Task09.pdb
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.dll
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.pdb
+D:\Visual Studio\hse_contests\Task01\Task09\obj\Debug\netcoreapp3.1\Task09.genruntimeconfig.cache

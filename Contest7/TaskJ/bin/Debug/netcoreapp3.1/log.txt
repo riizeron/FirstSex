@@ -1,0 +1,3 @@
+User p: login registered
+User p: login is already registered
+User p: login is already registered

@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.csprojAssemblyReference.cache
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.exe
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.deps.json
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.runtimeconfig.json
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.dll
+D:\Visual Studio\hse_contests\Contest7\TaskD\bin\Debug\netcoreapp3.1\TaskD.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.dll
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.pdb
+D:\Visual Studio\hse_contests\Contest7\TaskD\obj\Debug\netcoreapp3.1\TaskD.genruntimeconfig.cache

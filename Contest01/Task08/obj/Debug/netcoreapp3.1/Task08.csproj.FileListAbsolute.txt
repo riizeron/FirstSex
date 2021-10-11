@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.exe
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.deps.json
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.runtimeconfig.json
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.runtimeconfig.dev.json
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.dll
+D:\Visual Studio\hse_contests\Task01\Task08\bin\Debug\netcoreapp3.1\Task08.pdb
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.csprojAssemblyReference.cache
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.AssemblyInfo.cs
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.dll
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.pdb
+D:\Visual Studio\hse_contests\Task01\Task08\obj\Debug\netcoreapp3.1\Task08.genruntimeconfig.cache
